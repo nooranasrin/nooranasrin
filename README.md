@@ -29,10 +29,10 @@ I'm a passionate software developer with almost 4 years of experience, specializ
 
 <p align="center">
   <a href="https://github.com/nooranasrin">
-      <img height="200rem" width="auto" src="https://github-readme-stats.vercel.app/api?username=nooranasrin&show_icons=true&theme=vue-dark&count_private=true&include_all_commits=true" />
-      <img height="200rem" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nooranasrin&layout=compact&langs_count=8&theme=vue-dark&count_private=true" />
+      <img height="200rem" width="auto" src="https://github-readme-stats.vercel.app/api?username=nooranasrin&show_icons=true&theme=panda&count_private=true&include_all_commits=true" />
+      <img height="200rem" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nooranasrin&layout=compact&langs_count=8&theme=panda&count_private=true" />
   </a>
 </p>
 <p align="center">
-  <img height="200em" width="auto" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nooranasrin&theme=vue-dark" alt="nooranasrin" />
+  <img height="200em" width="auto" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nooranasrin&theme=panda" alt="nooranasrin" />
 </p>
